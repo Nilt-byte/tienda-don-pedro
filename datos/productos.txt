@@ -5,5 +5,4 @@ Pan tajado - $6.500
 Huevos x12 - $14.000
 Café 500g - $18.000
 Panela - $3.500
-
-echo 'Arroz 1kg - $4500'
+Arroz 1kg - $4500
