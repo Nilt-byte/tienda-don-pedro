@@ -13,6 +13,15 @@ Tienda de barrio ubicada en Itagüí, dedicada a la venta de productos básicos.
 | Panela | $3.500 |
 | Arroz 1kg | $4.500 |
 
+## 🛵 Domicilios
+
+La Tienda Don Pedro ofrece servicio de domicilios en el barrio **Santa María, Itagüí**.
+
+- **Horario:** lunes a sábado, de 8:00 a. m. a 7:00 p. m.
+- **Cobertura:** barrio Santa María y sus alrededores.
+- **Pedido mínimo:** $10.000 COP.
+- **Tiempo estimado de entrega:** 30 a 45 minutos.
+
 ## 📁 Estructura del proyecto
 
 ```text
